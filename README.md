@@ -1,4 +1,4 @@
-# Sorting-Competiton
+# Sorting-Competiton-using-signal
 
 
 The father creates two children and waits for them.
